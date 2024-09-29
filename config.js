@@ -27,7 +27,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['917705895455'] 
+global.mods = ['254112386921'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -129,9 +129,9 @@ global.princebot = '「 💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌」'
 global.packname = ' 「𝙈𝘼𝙉𝙉𝙊」 ♥️' 
 global.author = '💭' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM'
+global.princegp = 'https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jk'
 global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
-global.Princesc = 'https://github.com/MANNO-GDS/THE-MANNO-MD' 
+global.Princesc = 'https://github.com/Hubdarkweb/THE-MANNO-MD' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://telegra.ph/file/a1e3c864edf9d114e32a2.jpg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
